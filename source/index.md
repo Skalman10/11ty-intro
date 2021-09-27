@@ -1,3 +1,7 @@
+---
+layout: base.njk
+---
+
 # Potatismos
 ## Gulashsoppa
 Köttbullar och **lingonsylt**
